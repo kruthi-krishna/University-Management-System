@@ -10,23 +10,23 @@ The **University Management System** is a comprehensive **desktop application** 
 - **JDBC (mysql-connector-java-8.0.27.jar)** - For database connectivity
 
 ## 3. Key Features
-### ✅ Authentication System
+###  Authentication System
 - User login and authentication via **Login.java**
 - Secure access control for different management modules
 
-### ✅ Student & Faculty Management
+### Student & Faculty Management
 - Add, update, delete, and view **students and faculty** records
 - Data stored in **students** and **faculty** tables
 
-### ✅ Course Scheduling
+### Course Scheduling
 - Assign courses to students and faculty
 - View and manage courses from the **Course Management** module
 
-### ✅ Attendance Tracking
+###  Attendance Tracking
 - Mark attendance for students per course
 - View attendance history
 
-### ✅ Examination & Fee Management *(Coming Soon)*
+### Examination & Fee Management *(Coming Soon)*
 - Track student grades and tuition payments
 
 ## 4. Installation
